@@ -1,0 +1,11 @@
+{
+ "argv": [
+  "C:/Users/ali19/Desktop/sampel_1/env\\python.exe",
+  "-m",
+  "ipykernel_launcher",
+  "-f",
+  "{connection_file}"
+ ],
+ "display_name": "Python 3",
+ "language": "python"
+}
